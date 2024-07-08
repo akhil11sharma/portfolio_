@@ -3,7 +3,7 @@ export const skillsData = [
   'CSS',
   'Azure',
   'Microsoft Office',
-  'Picsart'.
+  'Picsart',
   'C',
   'Python',
   'Java',
