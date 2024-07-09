@@ -16,11 +16,11 @@ export const projectsData = [
     },
     {
         id: 2,
-        name: 'Explore Cinematic Excellence',
+        name: 'Cinema-Pedia',
         description: "This website, hosted locally, allows users to search for movies and display comprehensive details, including watch hours and awards. Developed using HTML, CSS, and JavaScript.",
         tools: ['HTML', 'CSS', 'JavaScript'],
         role: 'Personal Project',
-        code: '',
+        code: 'https://github.com/akhil11sharma/cinema-pedia',
         demo: '',
         image: 'travel', // Assuming 'travel' is the correct image reference
     },
